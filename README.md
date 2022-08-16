@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-** I have build a responsive website that will display images. links and description. This is my  portfolio project.
-Here I use HTML CSS Javascripts and MySql database PHP for backend.**
+**.......**
 
 Here are some ideas to get you started:
 
